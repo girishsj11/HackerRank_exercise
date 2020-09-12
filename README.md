@@ -105,3 +105,31 @@ Year should be between 1990 to 10^5.
 >Output Format
 
 The function must return a Boolean value (True/False). Output is handled by the provided code stub.
+
+
+## ***Program_5.py***
+
+  **Task**
+  
+  The included code stub will read an integer,n, from STDIN. Without using any string methods, try to print the following:
+  
+  123....n
+  
+  Note that "...." represents the consecutive values in between.
+  
+>Example
+
+     n=5
+     print the string 12345.
+     
+>Input Format
+
+The first line contains an integer n.
+
+>Constraints
+
+n should be between 1 to 150.
+
+>Output Format
+
+Print the list of integers from 1 through n as a string, without spaces.
