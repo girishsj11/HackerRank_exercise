@@ -2,7 +2,7 @@
 
 ## Program_1
 
-###### Task
+###### Task **
 Given an integer, , perform the following conditional actions:
 
 - If n is odd, print Weird
@@ -12,10 +12,10 @@ Given an integer, , perform the following conditional actions:
 
 Important considarations :
 
-> Input Format
+>Input Format
 A single line containing a positive integer n,
-> Constraints
+>Constraints
 n should be in 1 to 100
-> Output Format
+>Output Format
 Print Weird if the number is weird. Otherwise, print Not Weird.
 
