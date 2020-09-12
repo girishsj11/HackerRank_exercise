@@ -3,7 +3,8 @@
 ## ***Program_1.py***
 
   **Task**
-    Given an integer, , perform the following conditional actions:
+    
+   Given an integer, , perform the following conditional actions:
 
 - If n is odd, print Weird
 - If n is even and in the inclusive range of 2 to 5 , print Not Weird
