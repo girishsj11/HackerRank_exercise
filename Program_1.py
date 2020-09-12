@@ -22,9 +22,12 @@ If n is even and greater than 20 , print Not Weird
 if __name__ == "__main__":
     num = int(input("Enter the number : "))
     if(num in range(1,101)):
-        if (num%2==0 and num in range(2,5) or num>20):
-            print("Not Weird")
-        else:
+        if(num%2==1):
             print("Weird")
+        else:
+            if(num in range(6,21)):
+                print("Weird")
+            else:
+                print("Not Weird")
     else:
         print("Entered value is either less than 1 or greater than 100, so please re-try")
