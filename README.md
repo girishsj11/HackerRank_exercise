@@ -230,7 +230,9 @@ Return the total number of matching pairs of socks that John can sell.
     Sample Output
     3
 
-       
+ ## ***Program_8.py*** 
+ 
+ The user enters a string and a substring. You have to print the number of times that the substring occurs in the given string. String traversal will take place from left to right, not from right to left. 
        
        
        
