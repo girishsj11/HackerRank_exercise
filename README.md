@@ -234,5 +234,10 @@ Return the total number of matching pairs of socks that John can sell.
  
  The user enters a string and a substring. You have to print the number of times that the substring occurs in the given string. String traversal will take place from left to right, not from right to left. 
        
-       
+## ***Program_9.py***
+
+ The good string is a string that contains vowels only , find out the lenght of the longest good string which is a sub string of the given string.
+>Example:
+   input : 'abcaab'
+   output : 2 (since aa is the vowels which is highest/longest substring among the given string)
        
